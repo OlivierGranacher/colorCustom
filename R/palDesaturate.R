@@ -9,7 +9,7 @@
 #' @param plot  if TRUE return hclplot
 #'
 #'
-#' @return palette or
+#' @return palette or plot for palette
 #' @export
 #'
 #'
