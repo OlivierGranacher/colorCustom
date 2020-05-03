@@ -9,7 +9,8 @@ palDesaturate(
   n = 3,
   max_desaturation = 0.8,
   plot = F,
-  lighten = 0
+  lighten = 0,
+  dir = 1
 )
 }
 \arguments{
@@ -22,6 +23,8 @@ palDesaturate(
 \item{plot}{if TRUE return hclplot}
 
 \item{lighten}{between -1 and 1, positive values for lightening and negtive for darkening}
+
+\item{dir}{-1 for reversing color order}
 }
 \value{
 palette or plot for palette

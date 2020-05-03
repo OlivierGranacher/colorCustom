@@ -1,10 +1,10 @@
 Package: colorCustom
 Type: Package
-Title: Tools for colors
+Title: Tools for color creation
 Version: 0.1.0
 Author: Olivier Granacher
 Maintainer: The package maintainer <olivier.granacher@gmail.com>
-Description: Color palette creation and adjustement
+Description: Color palette creation and adjustement.
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
